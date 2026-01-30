@@ -4,7 +4,7 @@ Repository for the 2025/2026 HPE Tech Challenge Team "Tener Bits".
 
 ---
 
-## Challenge 3: Operation "Open Sky"
+## Challenge 3: Operation "La última trayectoria de La Sombra"
 
 **[Challenge 3 Description](https://cdstechchallenge.com/retos/enero-reto-3-o8j40fwwboz6ogxa/)**
 
